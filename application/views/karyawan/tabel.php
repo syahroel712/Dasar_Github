@@ -11,6 +11,7 @@
 	<input type="submit" name="tombol" value="CARI">
 	<?php echo form_close(); ?>
 </div> -->
+<!-- komentar -->
 <div class="box">
 <div class="box-header">
 <?php $message = $this->session->flashdata('pesan'); ?>
