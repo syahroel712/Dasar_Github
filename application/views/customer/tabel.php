@@ -1,6 +1,4 @@
-
-
-
+<!-- komentar -->
 <div class="box">
 <div class="box-header">
 	<?php $message = $this->session->flashdata('pesan'); ?>
